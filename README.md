@@ -1,6 +1,8 @@
 ### Hi there, I'm Vineeth Boppudi  👋
 ## I'm a Learner and Engineer !!
 
+- 👨‍💻 Consultant @KpmgIndia 
+- 🥅 Working on Enterprise Blockchain
 - 🌱 I’m currently learning to love the parts of myself that no one claps for.
 - 👯 I’m looking to collaborate on Blockchain projects
 - ⚡ Fun fact: I love sea food ...
