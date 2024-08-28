@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning to love myself
 - 👯 I’m looking to collaborate on Blockchain projects
 - ⚡ Fun fact: I love sea food ...
+  
 <!--
 **vineeth2328/vineeth2328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/vineeth-boppudi-48139416a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vineeth_boppudi/" height="30" width="40" /></a>
